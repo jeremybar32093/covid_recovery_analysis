@@ -1,0 +1,53 @@
+City,Zip,NABE,Lat,Long,MEDINC,P_WHITE,P_BLACK,P_HISP,P_ASIAN,P_OTHERS,P_Other
+Philadelphia,19102,Center City,39.948498,-75.16683,90750,73%,4%,5%,16%,1%,27%
+Philadelphia,19103,Center City West,39.953663,-75.17399,73611,72%,6%,6%,12%,4%,28%
+Philadelphia,19103,Center City West,39.95386,-75.16713,73611,72%,6%,6%,12%,4%,28%
+Philadelphia,19104,"University City, Mantua, Powelton",39.956417,-75.20855,25865,35%,42%,5%,14%,4%,65%
+Philadelphia,19106,"Old City, Society Hill",39.94912,-75.14397,109393,77%,8%,6%,6%,2%,23%
+Philadelphia,19107,"Center City, Chinatown",39.950233,-75.15892,53534,55%,8%,5%,27%,4%,45%
+Philadelphia,19107,"Center City, Chinatown",39.952161,-75.159627,53534,55%,8%,5%,27%,4%,45%
+Philadelphia,19111,"Fox Chase, Burlholme, Lawndale",40.05468,-75.09065,48186,44%,23%,20%,10%,3%,56%
+Philadelphia,19114,"Northeast, Torresdale",40.07735,-75.02251,56781,76%,10%,9%,4%,1%,24%
+Philadelphia,19114,"Northeast, Torresdale",40.080593,-74.99308,56781,76%,10%,9%,4%,1%,24%
+Philadelphia,19116,"Somerton, Byberry",40.118416,-75.01828,55123,67%,6%,6%,17%,4%,33%
+Philadelphia,19118,Chestnut Hill,40.077652,-75.20976,85437,65%,19%,7%,5%,3%,35%
+Philadelphia,19119,Mount Airy,40.060062,-75.19097,61297,31%,58%,3%,2%,6%,69%
+Philadelphia,19120,"Olney, Feltonville",40.035653,-75.120034,37891,6%,50%,31%,11%,2%,94%
+Philadelphia,19121,"Strawberry Mansion, Brewerytown",39.986816,-75.16948,19668,13%,75%,6%,4%,2%,87%
+Philadelphia,19123,"Northern Liberties, North Philadelphia",39.96936,-75.13877,73730,48%,29%,10%,8%,5%,52%
+Philadelphia,19124,"Frankford, Juniata Park, Crescentville",40.032215,-75.10596,33427,14%,37%,41%,5%,3%,86%
+Philadelphia,19124,"Frankford, Juniata Park, Crescentville",40.02286,-75.07741,33427,14%,37%,41%,5%,3%,86%
+Philadelphia,19124,"Frankford, Juniata Park, Crescentville",40.004665,-75.103485,33427,14%,37%,41%,5%,3%,86%
+Philadelphia,19124,"Frankford, Juniata Park, Crescentville",40.011658,-75.088264,33427,14%,37%,41%,5%,3%,86%
+Philadelphia,19127,Manayunk,40.015972,-75.21022,73750,81%,9%,5%,1%,3%,19%
+Philadelphia,19128,"Roxborough, Wissahickon",40.04498,-75.23145,72563,77%,12%,4%,3%,4%,23%
+Philadelphia,19129,"East Falls, Tioga, Nicetown",40.009163,-75.17337,63926,52%,36%,4%,4%,4%,48%
+Philadelphia,19130,"Spring Garden, Fairmount",39.967243,-75.169556,82632,65%,18%,6%,7%,3%,35%
+Philadelphia,19130,"Spring Garden, Fairmount",39.97505,-75.18723,82632,65%,18%,6%,7%,3%,35%
+Philadelphia,19131,"Wynnefield, West Park, Overbrook",39.976162,-75.224495,34844,11%,80%,3%,3%,2%,89%
+Philadelphia,19133,Fairhill,39.992089,-75.135712,19130,4%,35%,59%,1%,2%,96%
+Philadelphia,19136,Holmesburg,40.04982,-75.01114,48576,64%,15%,14%,3%,3%,36%
+Philadelphia,19137,"Bridesburg, Port Richmond",39.99741,-75.08919,54006,88%,2%,9%,0%,1%,12%
+Philadelphia,19138,"West Oak Lane, East Germantown",40.064,-75.153015,39851,3%,92%,2%,1%,4%,97%
+Philadelphia,19140,"Hunting Park, Tioga, Nicetown",40.017723,-75.14939,21665,3%,52%,42%,1%,2%,97%
+Philadelphia,19140,"Hunting Park, Tioga, Nicetown",40.002918,-75.152965,21665,3%,52%,42%,1%,2%,97%
+Philadelphia,19142,"West Philadelphia, Elmwood",39.929867,-75.22822,30431,6%,84%,3%,6%,1%,94%
+Philadelphia,19143,Kingsessing,39.948128,-75.22149,33351,12%,79%,4%,2%,3%,88%
+Philadelphia,19144,Germantown,40.033259,-75.177865,33786,16%,75%,4%,2%,3%,84%
+Philadelphia,19144,Germantown,40.03037,-75.1657,33786,16%,75%,4%,2%,3%,84%
+Philadelphia,19145,South Philadelphia West,39.9198,-75.18821,42009,48%,30%,6%,13%,2%,52%
+Philadelphia,19146,"Southwest Center City, Point Breeze, Grays Ferry",39.93956,-75.18051,63524,45%,43%,5%,4%,4%,55%
+Philadelphia,19146,"Southwest Center City, Point Breeze, Grays Ferry",39.94559,-75.18106,63524,45%,43%,5%,4%,4%,55%
+Philadelphia,19146,"Southwest Center City, Point Breeze, Grays Ferry",39.937726,-75.167021,63524,45%,43%,5%,4%,4%,55%
+Philadelphia,19146,"Southwest Center City, Point Breeze, Grays Ferry",39.933903,-75.180115,63524,45%,43%,5%,4%,4%,55%
+Philadelphia,19147,"Bella Vista, Queen Village",39.942257,-75.154366,77695,66%,9%,9%,13%,3%,34%
+Philadelphia,19147,"Bella Vista, Queen Village",39.9341,-75.16207,77695,66%,9%,9%,13%,3%,34%
+Philadelphia,19148,South Philadelphia East,39.92113,-75.1417,52584,56%,5%,14%,22%,3%,44%
+Philadelphia,19148,South Philadelphia East,39.911938,-75.15051,52584,56%,5%,14%,22%,3%,44%
+Philadelphia,19149,"Oxford Circle, Mayfair",40.049698,-75.063354,45126,34%,24%,22%,15%,4%,66%
+Philadelphia,19149,"Oxford Circle, Mayfair",40.0349,-75.065499,45126,34%,24%,22%,15%,4%,66%
+Philadelphia,19149,"Oxford Circle, Mayfair",40.037483,-75.042114,45126,34%,24%,22%,15%,4%,66%
+Philadelphia,19151,Overbrook,39.977297,-75.273268,48369,6%,87%,4%,1%,2%,94%
+Philadelphia,19152,Rhawnhurst,40.059544,-75.044395,52696,53%,15%,13%,15%,4%,47%
+Philadelphia,19153,"Eastwick, Southwest Philadelphia",39.902633,-75.24045,42418,12%,73%,7%,4%,4%,88%
+Philadelphia,19154,"Northeast Philadelphia, Parkwood Manor",40.08202,-74.96099,65082,78%,8%,8%,4%,1%,22%

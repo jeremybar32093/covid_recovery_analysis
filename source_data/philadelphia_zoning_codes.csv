@@ -1,0 +1,36 @@
+zoning,zoning_description
+CA1,Auto-Oriented Commercial - District 1
+CA2,Auto-Oriented Commercial - District 2
+CMX1,Commercial Mixed-Use - District 1
+CMX2,Commercial Mixed-Use - District 2
+CMX2.5,Commercial Mixed-Use - District 2.5
+CMX3,Commercial Mixed-Use - District 3
+CMX4,Commercial Mixed-Use - District 4
+CMX5,Commercial Mixed-Use - District 5
+I1,Industrial - District 1
+I2,Industrial - District 2
+I3,Industrial - District 3
+IP,Industrial - District P
+ICMX,Industrial Commercial Mixed Use
+IRMX,Industrial Residential Mixed Use
+RM1,Residential Multi-Family - District 1
+RM2,Residential Multi-Family - District 2
+RM3,Residential Multi-Family - District 3
+RM4,Residential Multi-Family - District 4
+RMX1,Residential Mixed-Use - District 1
+RMX2,Residential Mixed-Use - District 2
+RMX3,Residential Mixed-Use - District 3
+RSA1,Residential Single-Family Attached - District 1
+RSA2,Residential Single-Family Attached - District 2
+RSA3,Residential Single-Family Attached - District 3
+RSA4,Residential Single-Family Attached - District 4
+RSA5,Residential Single-Family Attached - District 5
+RSD1,Residential Single-Family Detached - District 1
+RSD2,Residential Single-Family Detached - District 2
+RSD3,Residential Single-Family Detached - District 3
+RTA1,Residential Two-Family Attached - District 1
+SP-INS,Special Purpose - Institutional
+SP-ENT,Special Purpose - Entertainment
+SP-STA,Special Purpose - Sports Stadium
+SP-PO,Special Purpose - Parks and Open Space
+SP-AIR,Special Purpose - Airport

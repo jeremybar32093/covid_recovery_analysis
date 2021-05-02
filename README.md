@@ -12,7 +12,9 @@ This notebook reads in a dataset obtained from the [Philadelphia Office of Prope
   * Filter on records with sale prices >= 1000
   * Filter on number of rooms > 0
 * In addition to row filtering, some columns were determined as out of scope and thus excluded from analysis
-* Lastly, some column reformatting was necessary to reformat Excel formatted dates and remove extraneous decimals from zip code field  
+* Lastly, some column reformatting was necessary to reformat Excel formatted dates and remove extraneous decimals from zip code field 
+
+After performing cleanup steps, a separate file is exported called *housing_data_cleaned.csv* that is used downstream.
 
 **2.) 2_housing_visualizations**
 

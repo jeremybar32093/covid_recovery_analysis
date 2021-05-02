@@ -29,4 +29,4 @@ After cleaning up the dataset in our **1_housing_etl** notebook, relevant analys
 
 All visualizations created within the notebook were stored in the *output* folder.
 
-
+A writeup and slide deck of relevant findings can be found in the *final_analysis* folder.

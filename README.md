@@ -24,6 +24,7 @@ After cleaning up the dataset in our **1_housing_etl** notebook, relevant analys
 * Boxplot/outlier analysis
 * 5 year trend of prices/interest rates
 * Choropleth maps analyzing total number of sales/average sales by zip code
+  * NOTE: for maps to display, you must make the jupyter notebook a trusted notebook
 * Scatter plots analyzing size of home versus sale prices
 * Pie charts comparing prices based on age of home
 
